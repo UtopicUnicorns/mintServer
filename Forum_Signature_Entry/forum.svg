@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="303.65829mm"
+   height="67.733665mm"
+   viewBox="0 0 303.65829 67.733666"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="forum.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:export-filename="/home/librorum/Downloads/initrd.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="725.49156"
+     inkscape:cy="46.669048"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9725" />
+    <sodipodi:guide
+       position="271.30943,33.906338"
+       orientation="0,-1"
+       id="guide20541" />
+    <sodipodi:guide
+       position="286.60988,30.692"
+       orientation="1,0"
+       id="guide20666" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient73016">
+      <stop
+         style="stop-color:#67b544;stop-opacity:1;"
+         offset="0"
+         id="stop73012" />
+      <stop
+         style="stop-color:#5bb862;stop-opacity:1"
+         offset="0.5"
+         id="stop92703" />
+      <stop
+         style="stop-color:#67b544;stop-opacity:1"
+         offset="1"
+         id="stop73014" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient59240"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#376326;stop-opacity:1;"
+         offset="0"
+         id="stop59238" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient73016"
+       id="linearGradient73018"
+       x1="261.98688"
+       y1="16.202677"
+       x2="261.98688"
+       y2="51.450493"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter116945"
+       x="-0.030022849"
+       y="-0.035191899"
+       width="1.0850647"
+       height="1.0997104">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood116935" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite116937" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur116939" />
+      <feOffset
+         dx="4"
+         dy="4"
+         result="offset"
+         id="feOffset116941" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite116943" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter116975"
+       x="-0.016548398"
+       y="-0.13613297"
+       width="1.0468871"
+       height="1.3857101">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood116965" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite116967" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur116969" />
+      <feOffset
+         dx="4"
+         dy="4"
+         result="offset"
+         id="feOffset116971" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite116973" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Bar"
+     style="display:inline"
+     transform="translate(9.3212757,1.667877e-4)"
+     sodipodi:insensitive="true">
+    <path
+       id="rect35155"
+       style="fill:url(#linearGradient73018);stroke-width:0.20153;filter:url(#filter116975)"
+       d="M -4.5212755,16.195248 H 284.92344 c 0,0 0.61055,-0.01281 0.61055,0.593253 v 34.06909 c 0.0546,0.664794 -0.65007,0.595194 -0.65007,0.595194 H -4.5212755 Z"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Bar_overlay"
+     style="display:inline"
+     transform="translate(9.3212757,1.667877e-4)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#67b544;fill-opacity:1;stroke:none;stroke-width:8.6483;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:200.013;stroke-opacity:1"
+       id="rect128383"
+       width="13.978814"
+       height="35.257534"
+       x="-4.5212755"
+       y="16.195248" />
+  </g>
+  <g
+     inkscape:label="Logo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(78.223394,-99.987525)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g854"
+       transform="matrix(0.26458333,0,0,0.26458333,-68.902118,99.987692)">
+      <g
+         id="layer3">
+        <path
+           id="path32"
+           style="fill:#67b544;fill-opacity:1;stroke:#ffffff;stroke-width:20.0013;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:200.013;stroke-opacity:1"
+           d="M 128,10 A 118,118 0 0 0 10,128 118,118 0 0 0 128,246 118,118 0 0 0 246,128 118,118 0 0 0 128,10 Z" />
+        <path
+           style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;-inkscape-stroke:none;filter:url(#filter116945)"
+           d="m 43.959063,85.317496 23.293715,86.933324 c 5.687012,21.22421 27.765588,33.97128 48.989792,28.28427 l 57.95556,-15.52914 c 21.22421,-5.68701 33.97128,-27.76559 28.28427,-48.9898 L 189.54145,87.719862 C 185.28386,71.830301 168.68866,62.249059 152.7991,66.506653 145.37602,68.495662 139.41827,73.236811 135.51651,79.28122 129.11528,75.997489 121.58515,74.870406 114.16207,76.859416 98.27251,81.11701 88.691266,97.712202 92.948859,113.60177 l 12.940951,48.29629 19.31853,-5.17639 -12.94095,-48.29629 c -1.46009,-5.44906 1.622,-10.787381 7.07106,-12.247447 5.44906,-1.460072 10.78737,1.622008 12.24744,7.071067 l 12.94096,48.29629 19.31851,-5.17638 -12.94095,-48.296287 c -1.46007,-5.449062 1.62201,-10.787383 7.07107,-12.247454 5.44906,-1.460068 10.78738,1.622011 12.24745,7.071073 l 12.94095,48.296288 c 2.88949,10.78373 -3.3584,21.60541 -14.14213,24.4949 l -57.95556,15.52914 c -10.78372,2.88949 -21.605397,-3.3584 -24.494896,-14.14213 L 63.277581,80.141111 Z"
+           id="path4193" />
+      </g>
+      <g
+         id="g923"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Title_plate"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="223.6391"
+       y="36.685127"
+       id="text43346"><tspan
+         sodipodi:role="line"
+         id="tspan43344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="223.6391"
+         y="36.685127">@ Linux Mint</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Name_plate"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="80.85656"
+       y="38.724037"
+       id="text10131"
+       inkscape:export-filename="/home/librorum/Downloads/xenopeek.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan10129"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="80.85656"
+         y="38.724037">.initrd</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Position_Plate">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="219.5722"
+       y="37.333157"
+       id="text14664"
+       inkscape:export-filename="/home/librorum/Downloads/Clem.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan14662"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
+         x="219.5722"
+         y="37.333157">Discord Mod</tspan></text>
+  </g>
+</svg>
