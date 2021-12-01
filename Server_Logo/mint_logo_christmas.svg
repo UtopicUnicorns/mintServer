@@ -287,14 +287,14 @@
          id="feComposite116943-4" />
     </filter>
     <filter
-       inkscape:label="Garden of Delights"
+       inkscape:label="Colorize"
        inkscape:menu="Overlays"
        inkscape:menu-tooltip="Phantasmagorical turbulent wisps, like Hieronymus Bosch's Garden of Delights"
        x="-0.0011737699"
        width="1.0023234"
        y="-0.0016164337"
        height="1.0032323"
-       style="color-interpolation-filters:sRGB"
+       style="color-interpolation-filters:sRGB;"
        id="filter1031">
       <feTurbulence
          result="result1"
@@ -363,7 +363,56 @@
       <feBlend
          mode="darken"
          in2="result91"
-         id="feBlend1029" />
+         id="feBlend1029"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix995" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite997"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix999"
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1" />
+      <feFlood
+         id="feFlood1001"
+         flood-opacity="1"
+         flood-color="rgb(158,2,0)"
+         result="flood1" />
+      <feBlend
+         in2="colormatrix1"
+         id="feBlend1003"
+         in="flood1"
+         mode="multiply"
+         result="blend1" />
+      <feBlend
+         in2="blend1"
+         id="feBlend1005"
+         mode="screen"
+         result="blend2" />
+      <feColorMatrix
+         id="feColorMatrix1007"
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite1009"
+         in="colormatrix2"
+         operator="in"
+         k2="1"
+         result="composite2" />
     </filter>
     <filter
        inkscape:label="Frost"
@@ -440,7 +489,10 @@
         <path
            id="path32"
            style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:20.0013;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:200.013;stroke-opacity:1"
-           d="M 128,10 A 118,118 0 0 0 10,128 118,118 0 0 0 128,246 118,118 0 0 0 246,128 118,118 0 0 0 128,10 Z" />
+           d="M 128,10 A 118,118 0 0 0 10,128 118,118 0 0 0 128,246 118,118 0 0 0 246,128 118,118 0 0 0 128,10 Z"
+           inkscape:export-filename="/home/librorum/Documents/GitHub/mint_server/Server_Logo/mint_xmas.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
       </g>
       <g
          id="g923"
